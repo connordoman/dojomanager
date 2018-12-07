@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dojo Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_students">There are no students.</string>
+    <string name="phone_primary">Phone (preferred)</string>
+    <string name="phone_secondary">Phone (secondary)</string>
+    <string name="email_primary">Email (preferred)</string>
+    <string name="email_secondary">Email (secondary)</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="address">Address</string>
+    <string name="parent_names">Parents/guardians</string>
+    <string name="belt_colour">Belt colour</string>
+    <string name="preferred_contact">Preferred contact method</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="add_student">Add Student</string>
+    <string name="just_name">Name</string>
+    <string name="just_email">Email</string>
+</resources>
